@@ -1,0 +1,88 @@
+{
+    "John": {
+        "name": "John",
+        "phones": [
+            "1234567890",
+            "5555555555"
+        ],
+        "birthday": null,
+        "emails": null,
+        "memos": null,
+        "address": null
+    },
+    "Jane": {
+        "name": "Jane",
+        "phones": [
+            "9876543210"
+        ],
+        "birthday": null,
+        "emails": null,
+        "memos": null,
+        "address": null
+    },
+    "Aqrv": {
+        "name": "Aqrv",
+        "phones": [
+            "1294422115"
+        ],
+        "birthday": null,
+        "emails": null,
+        "memos": null,
+        "address": null
+    },
+    "Mwat": {
+        "name": "Mwat",
+        "phones": [
+            "6608168561"
+        ],
+        "birthday": null,
+        "emails": null,
+        "memos": null,
+        "address": null
+    },
+    "Hgho": {
+        "name": "Hgho",
+        "phones": [
+            "6882156093"
+        ],
+        "birthday": null,
+        "emails": null,
+        "memos": null,
+        "address": null
+    },
+    "Omaw": {
+        "name": "Omaw",
+        "phones": [
+            "1807103424",
+            "0123456789"
+        ],
+        "birthday": null,
+        "emails": null,
+        "memos": null,
+        "address": null
+    },
+    "Nik": {
+        "name": "Nik",
+        "phones": null,
+        "birthday": "1980-12-12",
+        "emails": null,
+        "memos": null,
+        "address": null
+    },
+    "Mike": {
+        "name": "Mike",
+        "phones": [
+            "0012345678"
+        ],
+        "birthday": "1950-05-05",
+        "emails": [
+            "mike@mail.com"
+        ],
+        "memos": [
+            "mike memo"
+        ],
+        "address": [
+            "mike addr"
+        ]
+    }
+}
