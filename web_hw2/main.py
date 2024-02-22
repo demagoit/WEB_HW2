@@ -42,7 +42,7 @@ def main():
     CLI_in = CLI_Input(my_book_phones)
     CLI_out = CLI_Output()
 
-    # CLI_out.user_output(ret_rezault)
+    CLI_out.user_output(CLI_in.get_help())
     while True:
 
         # ret_rezault = get_command_suggestions(my_book_phones)

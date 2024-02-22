@@ -6,7 +6,7 @@ authors = ["demagoit <33demagoit@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.10"
+python = "3.10.12"
 prompt-toolkit = "3.0.43"
 rich = "13.7.0"
 

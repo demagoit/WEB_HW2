@@ -488,6 +488,10 @@ class CLI_Input(Input):
 
         return return_data
 
+    def get_help(self):
+        return_data = self.__NAME_COMMANDS['help']()
+        return return_data
+
 class CLI_Output(Output):
     def __init__(self):
         self.__styles = {
